@@ -16,3 +16,5 @@ newPerson.name = 'Bradley';
 
 console.log(name, newName); // John, Jonathan
 console.log(person, newPerson); // { name: 'Bradley', age: 40 }, { name: 'Bradley', age: 40 }
+
+
