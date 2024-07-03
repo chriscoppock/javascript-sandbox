@@ -1,9 +1,11 @@
 // String
 const firstName = 'Sara';
 
+console.log(firstName, typeof firstName);
+
 // Number
 const age = 30;
-const temp = 98.9;
+const temp = 98.6;
 
 // Boolean
 const hasKids = true;
