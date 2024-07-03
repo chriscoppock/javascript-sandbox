@@ -1,4 +1,5 @@
-let amount = 'hello';
+let amount = '100';
+// let amount = 'Hello';
 
 // Convert string to number
 amount = parseInt(amount);
@@ -22,3 +23,5 @@ console.log(undefined + undefined);
 console.log('foo' / 3);
 
 console.log(amount, typeof amount);
+
+
